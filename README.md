@@ -1,3 +1,5 @@
+### პროექტზე მუშაობდნენ: ლუკა ქათამაძე , ალექსანდრე სურმავა
+
 # პროექტის მიმოხილვა – Walmart Recruiting: Store Sales Forecasting
 
 
