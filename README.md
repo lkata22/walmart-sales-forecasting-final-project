@@ -397,6 +397,10 @@
 
 
 
+mlflow:  https://dagshub.com/lkata22/walmart-sales-forecasting-final-project.mlflow/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
+wandb:   https://wandb.ai/lkata22-free-university-of-tbilisi-/walmart-sales-forecasting?nw=nwuserlkata22
+
 
 
 
