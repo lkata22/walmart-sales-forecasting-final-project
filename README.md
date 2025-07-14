@@ -390,7 +390,7 @@ Best Iteration: 385
 
 - **ტექნიკური პარამეტრები:**
   - Lookback ფანჯარა: 52 კვირა  
-  - პროგნოზის ფანჯარა: 8 კვირა  
+  - პროგნოზის ფანჯარა: 39 კვირა  
   - Optimizer: `Adam`  
   - Scheduler: ReduceLROnPlateau  
   - Batch size: 32  
