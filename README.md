@@ -140,7 +140,7 @@
 
    ### მოდელის კონფიგურაცია:
    
-    * horizon: 28 (forecast horizon in weeks)
+    * horizon: 39 (forecast horizon in weeks)
     * input_size: 30 (look-back window in weeks)
     * epochs (max_steps): 500
     * batch_size: 64
@@ -150,7 +150,6 @@
 
   ### მონაცემთა დამუშავება
 
-    * უარყოფითი Weekly_Sales მნიშვნელობები გადაკეთდა ნულზე
     * შეიქმნა უნიკალური იდენტიფიკატორი Store_Dept ფორმატით
     * Date გადაერქვა ds, ხოლო Weekly_Sales – y, რათა მოდელი თავსებადი ყოფილიყო NeuralForecast ფორმატთან
 
