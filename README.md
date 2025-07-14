@@ -160,6 +160,8 @@
       * გააქტიუროს start_padding_enabled, რათა გაითვალისწინოს მოკლე სერიები
       * გაუშვას ტრენინგი და პროგნოზი fit() და predict() მეთოდებით
 
+![Uploading Screenshot 2025-07-14 at 18.42.00.png…]()
+
 
 
 ##  მოდელი: PatchTST
