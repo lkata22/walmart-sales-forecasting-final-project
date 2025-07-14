@@ -159,8 +159,8 @@
       * გააქტიუროს start_padding_enabled, რათა გაითვალისწინოს მოკლე სერიები
       * გაუშვას ტრენინგი და პროგნოზი fit() და predict() მეთოდებით
 
-
-
+  Val WMAE: 1800
+  Submission: 3500
 
 ##  მოდელი: PatchTST
 
